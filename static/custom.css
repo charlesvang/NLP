@@ -1,0 +1,41 @@
+canvas{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+}
+body{
+	background-color: black;
+}
+#wrapper{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
+
+h3{
+	color:white;
+	font-size: 12px;
+}
+
+.inout {
+	color: white;
+	border-color: white;
+	opacity: 0.8;
+	width: 55%;
+	margin: 0 auto;
+}
+
+.mytext {
+	color:black;
+	width: 400px;
+	height: 200px;
+}
+button {
+
+	margin-top: 20px;
+	width: 20%;
+	
+}
